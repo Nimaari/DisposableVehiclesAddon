@@ -1,0 +1,7 @@
+name: DisposableVehiclesAddon
+version: '${project.version}'
+main: tk.nimari.DisposableVehiclesAddon
+api-version: 1.14
+depend: [Vehicles]
+authors: [Nimari]
+description: An addon made for the Minecraft Vehicles plugin that allows you to dispose of vehicles when dismounted. 
